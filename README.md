@@ -11,7 +11,7 @@
   
   
 2. Eclipse 설치
-  - 자바 설치 후 자바르 사용하기 위한 이클립스 설치(저는 인텔리제이를 이미 설치했습니다.)
+  - 자바 설치 후 자바를 사용하기 위한 이클립스 설치(저는 인텔리제이를 이미 설치했습니다.)
     Eclipse 공식 홈페이지 이동 후 dmg 파일 다운로드(www.eclipse.org)
     <img width="855" alt="Eclipse_Install" src="https://user-images.githubusercontent.com/79196972/109390203-8ffe8280-7953-11eb-8acd-5faca987fff9.png">
 
