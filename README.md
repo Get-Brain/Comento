@@ -10,13 +10,28 @@
   (저는 이미 11 버전이 깔려 있어서 8 버전이 아닙니다.)
   
   - 자바 환경변수 설정
-    ''' cd /Library/Java/JavaVirtualMachines '''
+    ``` cd /Library/Java/JavaVirtualMachines
+        -> 위 경로로 이동
+    
+        ls
+        -> 설치된 버전의 JDK가 보일 것이다.
+        
+        cd jdk 설치한 버전.jdk/Contents/Home/
+        -> jdk 홈 디렉터리 이동
+        
+        vi ~/.bash_profile
+        -> bash_profile 파일 편집기로 열기
+        
+        JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk 설치된 버전.jdk/Contents/Home
+        -> 자바 환겨 변수를 위 문장 그대 적어준 뒤, ESC키르 누른 후, :wq! 를 쳐서 저장 후 나온다.
+        
+        java --version
+        -> 위 명령을 자바 버전을 확인한다.
   
   
-2. Eclipse 설치
-  - 자바 설치 후 자바를 사용하기 위한 이클립스 설치(저는 인텔리제이를 이미 설치했습니다.)
-    Eclipse 공식 홈페이지 이동 후 dmg 파일 다운로드(www.eclipse.org)
-    <img width="855" alt="Eclipse_Install" src="https://user-images.githubusercontent.com/79196972/109390203-8ffe8280-7953-11eb-8acd-5faca987fff9.png">
+2. 인텔리제이 설치
+  - 자바 설치 후 자바를 사용하기 위한 인텔리제이 설치
+    
 
     
   
