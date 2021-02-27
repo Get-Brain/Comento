@@ -4,7 +4,7 @@
     - 오라클 계정 필요
 
     JDK 다운로드
-    ![InstallJava](./Comento_image/InstallJava.png)
+    
 
 
 
