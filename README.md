@@ -33,7 +33,11 @@
 2. 인텔리제이 설치
   - 자바 설치 후 자바를 사용하기 위한 인텔리제이 설치
     인텔리제이 홈페이지 접속 후 다운로드(https://www.jetbrains.com/ko-kr/idea/)
+    <img width="1322" alt="Intellij_homepage" src="https://user-images.githubusercontent.com/79196972/109390595-fbe1ea80-7955-11eb-9f27-dd496a7fe118.png">
+    다운로드 클릭해서 설치
     
+    
+
    
     
 
