@@ -5,6 +5,7 @@
     - 1.8u_221 버전으로 설치
 
     JDK 다운로드
-    
+    <img width="1301" alt="스크린샷 2021-02-27 오후 10 17 18" src="https://user-images.githubusercontent.com/79196972/109388293-90921b80-7949-11eb-853c-994451da1f6d.png">
+
 
     
