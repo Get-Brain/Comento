@@ -10,7 +10,8 @@
   (저는 이미 11 버전이 깔려 있어서 8 버전이 아닙니다.)
   
   - 자바 환경변수 설정
-    ``` cd /Library/Java/JavaVirtualMachines
+    ``` 
+        cd /Library/Java/JavaVirtualMachines
         -> 위 경로로 이동
     
         ls
