@@ -505,4 +505,5 @@ movieList를 받아 c:forEach문으로 조회된 결과를 뿌려줌.
   Server 탭에서 구동할 서버 더블 클릭 -> Module 탭 클릭 -> Path를 /로 수정
 
 -- 결과 -- 
+
 ![27](https://user-images.githubusercontent.com/79196972/109810286-b599cd80-7c6c-11eb-87a3-bae2189d7841.PNG)
