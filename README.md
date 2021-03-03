@@ -43,4 +43,5 @@
     ![8](https://user-images.githubusercontent.com/79196972/109791216-87f55a00-7c55-11eb-8b9f-38e169be93c5.PNG)
     
     정상 설치 되었다면 우측 상단의 상자를 클릭하여 Spring이 추가 된 것을 확인!
+    
     ![9](https://user-images.githubusercontent.com/79196972/109791927-529d3c00-7c56-11eb-8792-a3cf24be5dab.PNG)
