@@ -54,6 +54,7 @@
 
   Eclipse, Tomcat 설정
   - Windows -> Preferences -> Server 에서 해당 톰캣을 Add
+  
   ![10](https://user-images.githubusercontent.com/79196972/109793782-706ba080-7c58-11eb-9f78-c27d63837616.PNG)
   
   Eclipse 창에 Server 표시하기
