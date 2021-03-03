@@ -73,6 +73,7 @@
 2. 스프링 버전 변경
   - mvnrepository.com에서 Spring을 검색하여 현재 버전을 검색합니다.
   ![12](https://user-images.githubusercontent.com/79196972/109796013-00124e80-7c5b-11eb-8e99-3003f1ee43cd.PNG)
+  
   5.3.4가 최신 버전임을 확인 할 수 있음.
   
   Eclipse 프로젝트에서 최하단의 pom.xml에서 스프링 버전/JDk 버전을 수정
@@ -88,12 +89,15 @@
 3. 서버 셋팅
   - 기존에 셋팅한 좌측 하단의 Servers에서 마우스 우클릭 -> New -> Server를 클릭
   ![15](https://user-images.githubusercontent.com/79196972/109797152-69df2800-7c5c-11eb-86e1-46d7d8cccb89.PNG)
+  
   tomcat 9.0 버전 선택 후 Server name을 본인 임의대로 수정 한 후 Next 클릭
   
   ![16](https://user-images.githubusercontent.com/79196972/109797155-6b105500-7c5c-11eb-8d44-59d4ce740828.PNG)
+  
   해당 서버로 구동할 프로젝트를 우측 configured로 추가한 후 Finish를 클릭해 설정
   
   ![17](https://user-images.githubusercontent.com/79196972/109798832-9300b800-7c5e-11eb-83e7-e1b0b5657d31.PNG)
+  
   Server 영역 우측의 실행버튼 클릭 -> localhost:8080/프로젝트명/으로 접속하면 위와 같은 화면을 확인할 수 있음.
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -129,6 +133,7 @@
   mariaDB 접속확인
   시작 -> 프로그램 -> MariaDB 10.2(x64) -> MySQL Client를 실행
   ![21](https://user-images.githubusercontent.com/79196972/109799888-e58ea400-7c5f-11eb-8efb-07c8fc8104b3.PNG)
+  
   본인이 설정한 root 비밀번호를 입력한 후 엔터를 입력했을 때 위 화면이 뜨면 성공!
   
 2. MySQL workbench 설치
@@ -149,11 +154,13 @@
 4. 테이블 생성
   theater 스키마 밑의 Tables 우측을 클릭하여 Create Table을 클릭 -> Movie라는 테이블을 만듬
   ![24](https://user-images.githubusercontent.com/79196972/109801384-bb3de600-7c61-11eb-92d5-54f1e977fecf.PNG)
+  
   위와 같이 colum과 설정(설정 관련해 DB 지식을 알고 있다고 간주)
   
 5. 데이터 넣기 및 조회
   - 좌측 상단 메뉴에 SQL Script 메뉴를 클릭 후 데이터를 넣는 INSERT SQL 문을 작성해 실행
   ![25](https://user-images.githubusercontent.com/79196972/109802307-fa206b80-7c62-11eb-9833-4d4f5b7a6267.PNG)
+  
   데이터가 정상 INSERT 됐다면, 조회 또한 가능함.
   
 6. 스프링 , MariaDB, MyBatis 연동, 데이터 조회
@@ -307,6 +314,7 @@
   
 - 데이터 조회/처리를 위한 java코드 작성
 ![26](https://user-images.githubusercontent.com/79196972/109808418-710d3280-7c6a-11eb-8455-06d5d2340117.PNG)
+
 자바코드는 src/main/java 안에 존재
 위 구조와 같이 패키지와 파일 구조로 이루어져 있음
 
